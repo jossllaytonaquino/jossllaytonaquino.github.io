@@ -1,0 +1,5 @@
+@media (min-width: 769px) {
+    .top-bar {
+        display: none; /* Hide on larger screens */
+    }
+}
