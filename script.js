@@ -96,7 +96,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 // for name typewriter in home
-const textArray = ["IT Student", "Fresh Graduate", "Graphic Design", "Web Development"];
+const textArray = ["Aspiring Software Engineer", "Fresh Graduate", "Web Development"];
 let textIndex = 0;
 let charIndex = 0;
 const typingSpeed = 100;
